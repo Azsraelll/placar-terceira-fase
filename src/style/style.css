@@ -47,15 +47,15 @@ header h1{
 }
 
 .ranking-wrapper {
-  background: #fff;
-  padding: 30px 30px 30px 30px;
+  background: rgb(155, 154, 154);
+  padding: 10px 30px 30px 30px;
   border-radius: 15px;
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
   width: 100%;
   max-width: 900px;
-  height: 750px;
+  height: 740px;
   text-align: center;
-  border: 1.5px solid black;
+  border: 2px solid black;
 }
 
 .ranking-wrapper h1 {
@@ -78,8 +78,9 @@ header h1{
   margin-bottom: 15px;
   background: rgb(231, 229, 229);
   border-radius: 8px;
-  border: 1px solid black;
+  border: 2px solid black;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  color: #000;
 }
 
 .ranking-list img {
@@ -87,6 +88,22 @@ header h1{
   height: 130px;
   border-radius: 10px;
   object-fit: cover;
+  border: 1px solid black;
+}
+
+.ranking-list li:nth-child(1) {
+  background: gold;
+  font-weight: bold;
+}
+
+.ranking-list li:nth-child(2) {
+  background: silver;
+  font-weight: bold;
+}
+
+.ranking-list li:nth-child(3) {
+  background: #cd7f32; /* bronze */
+  font-weight: bold;
 }
 
 .team-info {
@@ -102,10 +119,10 @@ header h1{
 }
 
 input[type="number"] {
-  width: 100px;
-  height: 50px;
+  width: 150px;
+  height: 80px;
   padding: 6px;
-  font-size: 28px;
+  font-size: 35px;
   text-align: center;
   border: 2px solid #ccc;
   border-radius: 5px;
