@@ -23,7 +23,7 @@ const teams = [
     points: 0,
     image: "src/img/raposo-tavares.jpg"
   }
-];
+]; 
 
 const rankingList = document.getElementById("rankingList");
 
