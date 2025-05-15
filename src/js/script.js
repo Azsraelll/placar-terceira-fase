@@ -1,9 +1,9 @@
 const teams = [
   {
     id: 1,
-    name: "",
+    name: "#",
     points: 0,
-    image: "src/img/"
+    image: "src/img/duque.jpg"
   },
   {
     id: 2,
