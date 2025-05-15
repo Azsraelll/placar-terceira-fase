@@ -3,25 +3,25 @@ const teams = [
     id: 1,
     name: "Duque de Caxias",
     points: 0,
-    image: "../../src/img/duque.jpg"
+    image: "../src/img/duque.jpg"
   },
   {
     id: 2,
     name: "Ricardo Coração de Leão",
     points: 0,
-    image: "../../src/img/richard-the-lionheart-8730.jpg"
+    image: "../src/img/richard-the-lionheart-8730.jpg"
   },
   {
     id: 3,
     name: "Belisarius",
     points: 0,
-    image: "../../src/img/Belisarius_mosaic.jpg"
+    image: "../src/img/Belisarius_mosaic.jpg"
   },
   {
     id: 4,
     name: "Raposo Tavares",
     points: 0,
-    image: "../../src/img/raposo-tavares.jpg"
+    image: "../src/img/raposo-tavares.jpg"
   }
 ];
 
