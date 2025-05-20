@@ -1,27 +1,27 @@
 const teams = [
   {
     id: 1,
-    name: "",
-    points: 0,
-    image: "src/img/"
+    name: "Duque de Caxias",
+    points: 150,
+    image: "src/img/duque.jpg"
   },
   {
     id: 2,
-    name: "",
-    points: 0,
-    image: "src/img/"
+    name: "Balduino IV",
+    points: 128,
+    image: "src/img/Balduino IV.png"
   },
   {
     id: 3,
-    name: "",
-    points: 0,
-    image: "src/img/"
+    name: "Ricardo Coração de Leão",
+    points: 111,
+    image: "src/img/richard-the-lionheart-8730.jpg"
   },
   {
     id: 4,
-    name: "",
-    points: 0,
-    image: "src/img/"
+    name: "Aldo Chioratto",
+    points: 109,
+    image: "src/img/Aldo_Chioratto_9_years_old_in_1932.jpg"
   }
 ]; 
 
